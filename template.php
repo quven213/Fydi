@@ -5,6 +5,7 @@
   #  template.php mainly include three functions called from insert_class.php  #
   #  connect() makes database connection                                       #
   #  load() takes all table fields and type of fake database                   #
+  #  start() begin the process                                                 #
   #                                                                            #
   #  templates.php also takes to variables                                     #
   #  table -> table in database for insert                                     #
